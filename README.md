@@ -1,3 +1,3 @@
 # schedule_my_cut
 
-A new Flutter project.
+Schedule and cancel your barbershop appointments and view all of them being a barber owner.

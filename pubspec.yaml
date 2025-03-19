@@ -1,5 +1,5 @@
 name: schedule_my_cut
-description: "A new Flutter project."
+description: "Schedule and cancel your barbershop appointments and view all of them being a barber owner."
 publish_to: 'none'
 version: 0.1.0
 
@@ -9,6 +9,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  riverpod: ^2.6.1
+  riverpod_lint: ^2.6.5
 
 dev_dependencies:
   flutter_test:
