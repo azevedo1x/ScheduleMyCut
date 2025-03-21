@@ -1,3 +1,9 @@
-# schedule_my_cut
 
-Schedule and cancel your barbershop appointments and view all of them being a barber owner.
+  curl -sL https://firebase.tools | bash
+  firebase login
+  dart pub global activate flutterfire_cli
+  flutterfire configure
+
+Also, keep the build_runner on while developing:
+
+  dart run build_runner watch
