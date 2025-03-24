@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "867029677302",
+    "project_id": "schedule-my-cut-f9d46",
+    "storage_bucket": "schedule-my-cut-f9d46.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867029677302:android:5f1fddfedf35f02c3ba8d7",
+        "android_client_info": {
+          "package_name": "com.example.schedule_my_cut"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjh9NFk7AOS8Tk11sppywwn2R6h8UDXQw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
