@@ -39,6 +39,9 @@ dependencies:
   riverpod_lint: ^2.6.5
   riverpod: ^2.6.1
   freezed: ^3.0.4
+  json_annotation: ^4.9.0
+  json_serializable: ^6.9.4
+  freezed_annotation: ^3.0.0
 
 dev_dependencies:
   flutter_test:
