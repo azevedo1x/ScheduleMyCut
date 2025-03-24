@@ -38,6 +38,7 @@ dependencies:
   cloud_firestore: ^5.6.5
   riverpod_lint: ^2.6.5
   riverpod: ^2.6.1
+  freezed: ^3.0.4
 
 dev_dependencies:
   flutter_test:
